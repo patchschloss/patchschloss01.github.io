@@ -1,8 +1,6 @@
 # Patrick Schloss
-Visual Development Portfolio
+Welcome to my website! Take a look around. 
 
-
-If there's text here, then that should mean something. 
 ![Florant in the Woods](https://user-images.githubusercontent.com/14957489/226219516-214df973-2d1e-4d0b-8254-f999a1cee561.jpg)
 
 
