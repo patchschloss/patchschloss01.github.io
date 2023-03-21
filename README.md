@@ -1,5 +1,7 @@
 # Patrick Schloss
-Welcome to my website! Take a look around. 
+Ope, you got here fast! My website isn't quite finished. While I'm working on that, here's some other things of mine.
+
+https://linktr.ee/patch_schloss
 
 ![Florant in the Woods](https://user-images.githubusercontent.com/14957489/226219516-214df973-2d1e-4d0b-8254-f999a1cee561.jpg)
 
