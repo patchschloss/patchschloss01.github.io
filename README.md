@@ -1,5 +1,5 @@
 # Patrick Schloss
-Ope, you got here fast! My website isn't quite finished. While I'm working on that, here's some other things of mine.
+Ope, you got here fast! My website isn't quite finished. While I'm working on that, here's some other things of mine to check out.
 
 https://linktr.ee/patch_schloss
 
