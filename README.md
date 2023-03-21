@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Header1
+# Header
 Ope, you got here fast! My website isn't quite finished. While I'm working on that, here's some other things of mine to go check out.
 
 https://linktr.ee/patch_schloss
